@@ -16,7 +16,7 @@ Get your API key from the [Dashboard](https://pics.shade.cool/dashboard/api-keys
 
 **Endpoints**
 
-#### Upload Image
+#### [Upload Image](./#upload-image)
 
 **POST** `/api/upload`
 

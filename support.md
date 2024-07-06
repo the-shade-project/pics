@@ -6,7 +6,7 @@ Welcome to the Pics Shade Support page! Here, you will find various resources an
 
 **Help Center**
 
-Visit our [Help Center](https://pics.shade.cool/help) for comprehensive guides, FAQs, and troubleshooting articles. The Help Center is the best place to start if you encounter any problems or have questions about how to use Pics Shade.
+Visit our [Help Center](https://github.com/the-shade-project/pics/discussions) for comprehensive guides, FAQs, and troubleshooting articles. The Help Center is the best place to start if you encounter any problems or have questions about how to use Pics Shade.
 
 **Contact Support**
 
@@ -25,8 +25,7 @@ Join our community forum to ask questions, share tips, and connect with other Pi
 
 Follow us on social media for the latest updates, tips, and news about Pics Shade. Connect with us to stay informed and engage with other users.
 
-* **Twitter**: [@PicsShade](https://twitter.com/PicsShade)
-* **Facebook**: [Pics Shade](https://facebook.com/PicsShade)
+* [GitHub Community](https://github.com/the-shade-project/discussions)
 
 **System Status**
 
@@ -36,7 +35,7 @@ Stay updated on the operational status of Pics Shade services. If you're experie
 
 We value your feedback and are constantly working to improve our services. If you have any suggestions, feature requests, or general feedback, please let us know.
 
-* [Feedback Form](https://pics.shade.cool/feedback)
+* [Feedback Form](https://github.com/the-shade-project/pics/discussions)
 
 ***
 
