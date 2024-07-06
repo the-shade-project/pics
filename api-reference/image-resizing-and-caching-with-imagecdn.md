@@ -1,4 +1,4 @@
-# Image Resizing and Caching with ImageCDN
+# 😇 Image Resizing and Caching with ImageCDN
 
 ## Image Resizing and Caching with ImageCDN
 
