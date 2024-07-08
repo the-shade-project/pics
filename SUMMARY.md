@@ -6,3 +6,4 @@
   * [😇 Image Resizing and Caching with ImageCDN](api-reference/image-resizing-and-caching-with-imagecdn.md)
 * [🧑‍🏫 Guides](guides.md)
 * [🏅 Support](support.md)
+* [🐥 Contact](contact.md)
