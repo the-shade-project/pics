@@ -10,6 +10,7 @@
 
 ## links
 
+* [Refund Policy](links/refund-policy.md)
 * [Terms of Service](links/terms-of-service.md)
 * [Privacy Policy](links/privacy-policy.md)
 * [Disclaimer](links/disclaimer.md)
